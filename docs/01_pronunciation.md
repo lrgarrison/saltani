@@ -7,10 +7,10 @@ Phonemes appear as below.
 > [b]
 > p, b
 
-The first line is the romanization (way of writing the sound), each in square brackets.
-The second line is the [X-SAMPA](https://en.wikipedia.org/wiki/X-SAMPA) transcription
-of the realizations (different pronunciations of "the same" sound), separated by commas.
-(Where there is more than one realization, see section TODO on allophony.)
+First comes the romanization (way of writing the sound), each in square brackets.
+Then comes the [X-SAMPA](https://en.wikipedia.org/wiki/X-SAMPA) transcription
+of the realizations (different pronunciations of "the same" sound), separated by
+commas. (Where there is more than one realization, see section TODO on allophony.)
 
 ### 1.1. Vowels
 
@@ -41,45 +41,59 @@ a nonstandard way (see section TODO on stress.)
 
 > [k]
 > k, g
+
 ---
 > [t]
 > t, d
+
 ---
 > [b]
 > p, b
+
 ---
 > [r]
 > 4
+
 ---
 > [tl]
 > l\
+
 ---
 > [h]
 > x, G
+
 ---
 > [s]
 > s, z
+
 ---
 > [lh]
 > K, K\
+
 ---
 > [v]
 > f, v
+
 ---
 > [ng]
 > N
+
 ---
 > [n]
 > n
+
 ---
 > [m]
 > m
+
 ---
 > [y]
 > j
+
 ---
 > [l]
 > l
+
 ---
 > [w]
 > w
