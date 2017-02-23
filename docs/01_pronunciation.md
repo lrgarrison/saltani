@@ -4,14 +4,13 @@
 
 Phonemes appear as below.
 
-> [sy] [ch]
-> s\, z\
+> [b]
+> p, b
 
-The first line is all possible romanizations (ways of writing the sound),
-each in square brackets. The second line is the [X-SAMPA](https://en.wikipedia.org/wiki/X-SAMPA)
-transcription of the realizations (different pronunciations of "the same" sound),
-separated by commas. (Where there is more than one realization, see section TODO on
-allophony.)
+The first line is the romanization (way of writing the sound), each in square brackets.
+The second line is the [X-SAMPA](https://en.wikipedia.org/wiki/X-SAMPA) transcription
+of the realizations (different pronunciations of "the same" sound), separated by commas.
+(Where there is more than one realization, see section TODO on allophony.)
 
 ### 1.1. Vowels
 
@@ -32,3 +31,50 @@ allophony.)
 
 A vowel is written doubled or with an acute accent to indicate that it is stressed in
 a nonstandard way (see section TODO on stress.)
+
+### 1.2. Consonants
+
+> [k]
+> k, g
+---
+> [t]
+> t, d
+---
+> [b]
+> p, b
+---
+> [r]
+> 4
+---
+> [tl]
+> l\
+---
+> [h]
+> x, G
+---
+> [s]
+> s, z
+---
+> [lh]
+> K, K\
+---
+> [v]
+> f, v
+---
+> [ng]
+> N
+---
+> [n]
+> n
+---
+> [m]
+> m
+---
+> [y]
+> j
+---
+> [l]
+> l
+---
+> [w]
+> w
