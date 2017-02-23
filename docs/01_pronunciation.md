@@ -39,6 +39,13 @@ a nonstandard way (see section TODO on stress.)
 
 ### 1.2. Consonants
 
+| | Velar | Alveolar central | Alveolar lateral | labial |
+| stop | [k] k,g | [t], [d] t, d | | [b] | p, b |
+| flap | | [r] 4 | [tl] | |
+| fricative | [h] x, G | [s] s, z | [lh] K, K\ | [v] f, v |
+| nasal | [ng] N | [n] n | | [m] m |
+| approximant | [y] j | | [l] l | [w] w |
+
 > [k]
 > k, g
 
