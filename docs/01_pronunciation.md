@@ -16,18 +16,23 @@ of the realizations (different pronunciations of "the same" sound), separated by
 
 > [a]
 > a
+
 ---
 > [e]
 > E
+
 ---
 > [i]
 > i
+
 ---
 > [o]
 > o
+
 ---
 > [u]
 > u
+
 
 A vowel is written doubled or with an acute accent to indicate that it is stressed in
 a nonstandard way (see section TODO on stress.)
