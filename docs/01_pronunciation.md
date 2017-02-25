@@ -2,11 +2,9 @@
 
 ## 1. Phonemes and orthography - what are the sounds and how are they written?
 
-Phonemes appear as below.
+Phoneme examples appear as below.
 
-```
-[b] p, b
-```
+```[b] p, b```
 
 First comes the romanization (way of writing the sound), each in square brackets.
 Then comes the [X-SAMPA](https://en.wikipedia.org/wiki/X-SAMPA) transcription
@@ -27,17 +25,17 @@ for which is used in what contexts.)
 ```[u] u```
 
 A vowel is written doubled or with an acute accent to indicate that it is stressed in
-a nonstandard way (see section TODO on stress.)
+a nonstandard way (see section this.4.1. on stress.)
 
 ### 1.2. Consonants
 
-| | Velar | Alveolar central | Alveolar lateral | Labial |
-|---|---|---|---|---|
-| stop | ```[k] k,g``` | ```[t], [d] t, d``` | | ```[b] | p, b``` |
-| flap | | ```[r] 4``` | ```[tl]``` | |
-| fricative | ```[h] x, G``` | ```[s] s, z``` | ```[lh] K, K\ ``` | ```[v] f, v``` |
-| nasal | ```[ng] N``` | ```[n] n``` | | ```[m] m``` |
-| approximant | ```[y] j``` | | ```[l] l``` | ```[w] w``` |
+| | Velar | Palatal | Alveolar central | Alveolar lateral | Labial |
+|---|---|---|---|---|---|
+| stop | ```[k] k,g``` | ```[ty] c``` | ```[t], [d] t, d``` | | ```[b] p, b``` |
+| flap | | | ```[r] 4``` | ```[tl]``` | |
+| fricative | ```[h] x, G``` | ```[ch] S``` | ```[s] s, z``` | ```[lh] K, K\ ``` | ```[v] f, v``` |
+| nasal | ```[ng] N``` | ```[ny] J``` | ```[n] n``` | | ```[m] m``` |
+| approximant | ```[y] j``` | ```[ly] L``` | | ```[l] l``` | ```[w] w``` |
 
 ## 2. Phonotactics - how do the sounds go together?
 
@@ -54,6 +52,16 @@ adjoin at morpheme boundaries in the middle of a word, see section this.3.2. on
 deletion.)
 
 ## 3. Morphophonology - when words happen, how does that affect the sounds?
+
+Pronunciation examples appear as below.
+
+| |
+|-|
+|```baika```|
+|```paiga```|
+
+First comes the word as it is written. Then comes the
+[X-SAMPA](https://en.wikipedia.org/wiki/X-SAMPA) transcription.
 
 ### 3.1. Epenthesis
 
@@ -98,6 +106,16 @@ see section this.4.2. on syllable-timing for an explanation.
 |```nis.li```|```i.bva.mi```|```-->```|```nis.li.bva.mi```|
 
 ## 4. Prosody
+
+Pronunciation examples appear as below.
+
+| |
+|-|
+|```koauru```|
+|```koa"u4u```|
+
+First comes the word as it is written. Then comes the
+[X-SAMPA](https://en.wikipedia.org/wiki/X-SAMPA) transcription.
 
 ### 4.1. Stress
 

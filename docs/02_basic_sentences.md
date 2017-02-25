@@ -42,13 +42,13 @@ If the subject is a pronoun, it is usually omitted as seen below.
 The subjects above are all unmarked because they are in the patientive case. This is
 used for subjects that are not active (like the ones above.)
 
-Subjects can also be active, whereupon they get marked with the agentive case. This
-means they are suffixed with ```'(i)n``` (but see section TODO on clitic behavior).
-The optional ```i``` is used if and only if the noun ends in a consonant.
+Subjects can also be active, in which case (hah) they get marked with the agentive
+case. This means they are suffixed with ```'(a)v``` (but see section TODO on clitic
+behavior). The optional ```a``` is used if and only if the noun ends in a consonant.
 
 | | | | | |
 |-|-|-|-|-|
-| ```utma'n``` | ```iotong``` | | ```aklen'in``` | ```wiyufang``` |
+| ```utma'n``` | ```iotong``` | | ```aklen'an``` | ```wiyufang``` |
 | ```servant=AG``` | ```dance:3A``` | | ```dog=AG``` | ```speak:3A``` |
 | ```the servant dances``` | | | ```the dog speaks``` | |
 
