@@ -1,6 +1,8 @@
-# Basic sentences
+# 02. Basic sentences
 
-## Verb marking for subjects
+## 1. Subjects
+
+### 1.1 Verb marking for subjects
 
 Verbs that have subjects are marked with the appropriate suffix for the subject,
 as seen in the table below. (Some verbs do not have subjects - see section TODO
@@ -19,7 +21,7 @@ in a consonant.
 | ```3A``` | ```3I``` | ```3C``` |
 | ```he/she/they``` | ```it/they``` | ```it/they``` |
 
-## Intransitive verbs
+### 1.2. Intransitive verbs
 
 If the subject is a noun, it comes before the verb as seen below.
 
@@ -35,9 +37,9 @@ If the subject is a pronoun, it is usually omitted as seen below.
 |---|---|
 | ```mutuhalya``` | ```aiorung``` |
 | ```be.small:1PL``` | ```have.energy:3A``` |
-| ```we are small``` | ```they have energy``` |
+| ```we are small``` | ```she has energy``` |
 
-## Subject marking for agentive and patientive case
+### 1.3. Subject marking for agentive and patientive case
 
 The subjects above are all unmarked because they are in the patientive case. This is
 used for subjects that are not active (like the ones above.)
@@ -52,7 +54,9 @@ behavior). The optional ```a``` is used if and only if the noun ends in a conson
 | ```servant=AG``` | ```dance:3A``` | | ```dog=AG``` | ```speak:3A``` |
 | ```the servant dances``` | | | ```the dog speaks``` | |
 
-## Verb marking for objects
+## 2. Objects
+
+### 2.1. Verb marking for objects
 
 Verbs that have objects are marked with the appropriate suffix for the object (after
 the subject suffix), as seen in the table below. The optional ```a``` on each is
@@ -70,7 +74,7 @@ used if and only if the verb ends in a consonant.
 | ```3A``` | ```3I``` | ```3C``` |
 | ```him/her/them``` | ```it/them``` | ```it/them``` |
 
-## Transitive verbs
+### 2.2. Transitive verbs
 
 If the object is a noun, it comes before the verb and after the subject (if any is
 stated explicitly) as seen below.
@@ -93,7 +97,7 @@ If the object is a pronoun, it is usually omitted as seen below.
 | ```break:2>3I``` | ```squirrel``` | ```fight:3A>1PL``` |
 | ```you break it``` | ```the squirrel fights me``` | |
 
-## Object marking for patientive and focus case
+### 2.3. Object marking for patientive and focus case
 
 The objects above are all unmarked because they are in the patientive case. This is
 used for objects that are physically affected (like the ones above.)
