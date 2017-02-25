@@ -26,7 +26,7 @@ If the subject is a noun, it comes before the verb as seen below.
 | | | | | |
 |-|-|-|-|-|
 | ```bitrova``` | ```ketidi``` | | ```ngityu``` | ```lhuchang``` |
-| ```table``` | ```fall-3I``` | | ```bird``` | ```be.careful-3A``` |
+| ```table``` | ```fall:3I``` | | ```bird``` | ```be.careful:3A``` |
 | ```the table falls``` | | | ```the bird is careful``` | |
 
 If the subject is a pronoun, it is usually omitted as seen below.
@@ -34,13 +34,13 @@ If the subject is a pronoun, it is usually omitted as seen below.
 | | |
 |-|-|
 | ```mutuhalya``` | ```aiorung``` |
-| ```be.small-1PL``` | ```have.energy-3A``` |
+| ```be.small:1PL``` | ```have.energy:3A``` |
 | ```we are small``` | ```they have energy``` |
 
 ## Subject marking for agentive and patientive case
 
-The nouns above are all unmarked because they are in the patientive case. This is used
-for subjects that are not active (like the ones above.)
+The subjects above are all unmarked because they are in the patientive case. This is
+used for subjects that are not active (like the ones above.)
 
 Subjects can also be active, in which case (hah) they get marked with the agentive
 case. This means they are suffixed with ```'(a)v``` (but see section TODO on clitic
@@ -48,8 +48,8 @@ behavior). The optional ```a``` is used if and only if the noun ends in a conson
 
 | | | | | |
 |-|-|-|-|-|
-| ```utma'v``` | ```iotong``` | | ```aklen'av``` | ```wiyufang``` |
-| ```servant=AG``` | ```dance-3A``` | | ```dog=AG``` | ```speak-3A``` |
+| ```utma'n``` | ```iotong``` | | ```aklen'an``` | ```wiyufang``` |
+| ```servant=AG``` | ```dance:3A``` | | ```dog=AG``` | ```speak:3A``` |
 | ```the servant dances``` | | | ```the dog speaks``` | |
 
 ## Verb marking for objects
@@ -70,3 +70,25 @@ used if and only if the verb ends in a consonant.
 | ```3A``` | ```3I``` | ```3C``` |
 | ```him/her/them``` | ```it/them``` | ```it/them``` |
 
+## Transitive verbs
+
+If the object is a noun, it comes before the verb and after the subject (if any is
+stated explicitly) as seen below.
+
+| | | |
+|-|-|-|
+| ```letso'n``` | ```lhiava``` | ```kunsingal``` |
+| ```cat=AG``` | ```cloth``` | ```bite:3A>3I``` |
+| ```the cat bites the cloth``` | | |
+| | | |
+|```ngityu'n``` | ```wiihuti``` | ```lingakangan``` |
+| ```bird=AG``` | ```squirrel``` | ```touch:3A>3A ``` |
+| ```the bird touches the squirrel``` | | |
+
+If the object is a pronoun, it is usually omitted as seen below.
+
+| | | |
+|-|-|-|
+| ```ektotasel``` | ```aaihuti'n``` | ```ngudrangaki``` |
+| ```break:2>3I``` | ```squirrel``` | ```fight:3A>1PL``` |
+| ```you break it``` | ```the squirrel fights me``` | |
