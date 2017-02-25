@@ -8,13 +8,13 @@ on avalent verbs.) The optional ```a``` on each is used if and only if the verb 
 in a consonant.
 
 | first person singular | first person plural | second person |
-|-|-|-|
+|---|---|---|
 | ```-(a)ya``` | ```-(a)lya``` | ```-(a)se``` |
 | ```1SG``` | ```1PL``` | ```2``` |
 | ```I``` | ```we``` | ```you/y'all``` |
 
 | third person animate | third person inanimate | third person conceptual |
-|-|-|-|
+|---|---|---|
 | ```-(a)ng``` | ```-(a)di``` | ```-(a)re``` |
 | ```3A``` | ```3I``` | ```3C``` |
 | ```he/she/they``` | ```it/they``` | ```it/they``` |
@@ -24,7 +24,7 @@ in a consonant.
 If the subject is a noun, it comes before the verb as seen below.
 
 | | | | | |
-|-|-|-|-|-|
+|---|---|---|---|---|
 | ```bitrova``` | ```ketidi``` | | ```ngityu``` | ```lhuchang``` |
 | ```table``` | ```fall:3I``` | | ```bird``` | ```be.careful:3A``` |
 | ```the table falls``` | | | ```the bird is careful``` | |
@@ -32,7 +32,7 @@ If the subject is a noun, it comes before the verb as seen below.
 If the subject is a pronoun, it is usually omitted as seen below.
 
 | | |
-|-|-|
+|---|---|
 | ```mutuhalya``` | ```aiorung``` |
 | ```be.small:1PL``` | ```have.energy:3A``` |
 | ```we are small``` | ```they have energy``` |
@@ -47,7 +47,7 @@ case. This means they are suffixed with ```'(a)v``` (but see section TODO on cli
 behavior). The optional ```a``` is used if and only if the noun ends in a consonant.
 
 | | | | | |
-|-|-|-|-|-|
+|---|---|---|---|---|
 | ```utma'n``` | ```iotong``` | | ```aklen'an``` | ```wiyufang``` |
 | ```servant=AG``` | ```dance:3A``` | | ```dog=AG``` | ```speak:3A``` |
 | ```the servant dances``` | | | ```the dog speaks``` | |
@@ -59,13 +59,13 @@ the subject suffix), as seen in the table below. The optional ```a``` on each is
 used if and only if the verb ends in a consonant.
 
 | first person singular | first person plural | second person |
-|-|-|-|
+|---|---|---|
 | ```-(a)ki``` | ```-(a)lki``` | ```-(a)dse``` |
 | ```1SG``` | ```1PL``` | ```2``` |
 | ```me``` | ```us``` | ```you/y'all``` |
 
 | third person animate | third person inanimate | third person conceptual |
-|-|-|-|
+|---|---|---|
 | ```-(a)n``` | ```-(a)l``` | ```-(a)chai``` |
 | ```3A``` | ```3I``` | ```3C``` |
 | ```him/her/them``` | ```it/them``` | ```it/them``` |
@@ -76,7 +76,7 @@ If the object is a noun, it comes before the verb and after the subject (if any 
 stated explicitly) as seen below.
 
 | | | |
-|-|-|-|
+|---|---|---|
 | ```letso'n``` | ```lhiava``` | ```kunsingal``` |
 | ```cat=AG``` | ```cloth``` | ```bite:3A>3I``` |
 | ```the cat bites the cloth``` | | |
@@ -88,7 +88,7 @@ stated explicitly) as seen below.
 If the object is a pronoun, it is usually omitted as seen below.
 
 | | | |
-|-|-|-|
+|---|---|---|
 | ```ektotasel``` | ```aaihuti'n``` | ```ngudrangaki``` |
 | ```break:2>3I``` | ```squirrel``` | ```fight:3A>1PL``` |
 | ```you break it``` | ```the squirrel fights me``` | |
@@ -103,7 +103,7 @@ means they are suffixed with ```'(i)s``` (but see section TODO on clitic behavio
 optional ```i``` is used if and only if the noun ends in a consonant.
 
 | | | | | | |
-|-|-|-|-|-|-|
+|---|---|---|---|---|---|
 | ```satera``` | ```tsiwi's``` | ```weranadal``` | | ```oastar'is``` | ```uostayachai``` |
 | ```shoe``` | ```house=FOC``` | ```be.beside:3I>3I``` | | ```voice=FOC``` | ```hear:1SG>3C``` |
 | ```the shoe is beside the house``` | | | | ```I hear the voice``` | | |

@@ -56,7 +56,7 @@ deletion.)
 Pronunciation examples appear as below.
 
 | |
-|-|
+|---|
 |```baika```|
 |```paiga```|
 
@@ -72,7 +72,7 @@ If two of the same vowel adjoin, the added sound is a glottal stop ```?``` to th
 beginning of the second word.
 
 | | | | | |
-|-|-|-|-|-|
+|---|---|---|---|---|
 |```baika```|```abtiku```|```-->```|```baika```|```abtiku```|
 |```paiga```|```aptigu```|```-->```|```paiga```|```?aptigu```|
 
@@ -80,7 +80,7 @@ For consonants, ```a``` is added as a new final syllable to the first word. Note
 syllable boundaries (indicated by periods) moving in ```iang```, and see section this.4.2.
 on syllable-timing for an explanation.
 | | | | | |
-|-|-|-|-|-|
+|---|---|---|---|---|
 |```iang```|```ngestu```|```-->```|```iang```|```ngestu```|
 |```i.a.N```|```NEs.tu```|```-->```|```i.a.Na```|```NEs.tu```|
 
@@ -98,7 +98,7 @@ Note the syllable boundaries (indicated by periods ```.```) moving in ```viruh``
 see section this.4.2. on syllable-timing for an explanation.
 
 | | | | |
-|-|-|-|-|
+|---|---|---|---|
 |```virukh```|```ha```|```-->```|```viruha```|
 |```fi.4ux```|```xa```|```-->```|```fi.4u.Ga```|
 | | | | |
@@ -110,7 +110,7 @@ see section this.4.2. on syllable-timing for an explanation.
 Pronunciation examples appear as below.
 
 | |
-|-|
+|---|
 |```koauru```|
 |```koa"u4u```|
 
@@ -127,7 +127,7 @@ in section this.1.1. applies.
 Note that primary stress is indicated by a double-quote ```"```.
 
 | | | |
-|-|-|-|
+|---|---|---|
 |```lu```|```koauru```|```uulinu```|
 |```"lu```|```koa"u4u```|```"ulinu```|
 
@@ -138,7 +138,7 @@ words are irrelevant here, trust that the first morpheme in each example is the 
 Note that secondary stress is indicated by a percent sign ```%```.
 
 | | | | |
-|-|-|-|-|
+|---|---|---|---|
 |```bvai```|```silsi```|```-->```|```bvai-silsi```|
 |```"pfai```|```"silsi```|```-->```|```"pfai%zilsi```|
 | | | | |
@@ -159,6 +159,6 @@ syllables.
 coda of the previous syllable and the second is the onset of the following syllable.
 
 | | | | |
-|-|-|-|-|
+|---|---|---|---|
 |```waia```|```ayesa```|```batan```|```obwana```|
 |```wa.i.a```|```a.jE.za```|```pa.dan```|```op.wa.na```|
