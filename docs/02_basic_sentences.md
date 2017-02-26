@@ -1,5 +1,9 @@
 # 02. Basic sentences
 
+The basic grammatical distinction is between subject and object - nominative and
+accusative "cases" or roles. The actual case _marking_ is slightly different, but
+these are the underlying roles.
+
 ## 1. Subjects
 
 ### 1.1 Verb marking for subjects

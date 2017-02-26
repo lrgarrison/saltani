@@ -28,3 +28,48 @@ These pronouns appear in the same place in the sentence as the noun they replace
 | ```kais``` | ```notangachai``` | | ```tso``` | ```ntsiuse``` |
 | ```3C;FOC``` | ```see:3A>3C``` | | ```2``` | ```sleep:2``` |
 | ```she sees IT``` | | | ```YOU sleep``` | |
+
+## 2. Basic modifiers
+
+### 2.1. Adjectives
+
+#### 2.1.1 Adjective formation
+
+Adjectives are generally formed in one of two ways. The first is with the suffix
+```-o```, which makes adjectives from nouns.
+
+| | | |
+|---|---|---|
+| ```kleis-o``` | ```kabte-o``` | ```letso-o``` |
+| ```ruler-ADJ``` | ```snow-ADJ``` | ```cat-ADJ``` |
+| ```royal/noble``` | ```snowy``` | ```feline``` |
+
+(Note that the last is pronounced with a glottal stop as indicated in section 01.3.1.
+on epenthesis - ```lEtso?o``` instead of ```lEtso:```.
+
+The second is with ```-(a)r``` and ```-(a)d```, which form the ergative and absolutive
+participles respectively and make nouns/adjectives from verbs. The optional ```a```
+on each is used if and only if the verb ends in a consonant. ([Ergative and
+absolutive](https://en.wikipedia.org/wiki/Ergative%E2%80%93absolutive_language) mean
+that subjects of transitive verbs are ergative, while their objects along with
+subjects of intransitive verbs are absolutive.)
+
+| | | |
+|---|---|---|
+| ```rubrad``` | ```rekunar``` | ```rekunad``` |
+| ```be.loud:AP``` | ```love:EP``` | ```love:AP``` |
+| ```loud (one)``` | ```lover/loving one``` | ```beloved (one)``` |
+
+#### 2.1.2 Adjective placement
+
+Participle adjectives almost always come after the nouns they modify, unless they are
+made from verbs with incorporated nouns (see section TODO on noun incorporation).
+
+| | | | |
+|---|---|---|
+| ```ombuo``` | ```silsid``` | ```karsta``` | ```nyerar``` |
+| ```horse``` | ```run:AP``` | ```rope``` | ```enclose:EP``` |
+| ```royal/noble``` | ```snowy``` | ```feline``` |
+
+Adjective of the other kind almost always come before the nouns they modify.
+(Exceptions can be made on the basis of pragmatics, poetic effect, or similar.)
