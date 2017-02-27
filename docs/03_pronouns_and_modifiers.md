@@ -56,8 +56,8 @@ subjects of intransitive verbs are absolutive.)
 
 | | | |
 |---|---|---|
-| ```rubrad``` | ```rekunar``` | ```rekunad``` |
-| ```be.loud:AP``` | ```love:EP``` | ```love:AP``` |
+| ```rubra-d``` | ```rekun-ar``` | ```rekun-ad``` |
+| ```be.loud-AP``` | ```love-EP``` | ```love-AP``` |
 | ```loud (one)``` | ```lover/loving one``` | ```beloved (one)``` |
 
 #### 2.1.2 Adjective placement
@@ -66,10 +66,32 @@ Participle adjectives almost always come after the nouns they modify, unless the
 made from verbs with incorporated nouns (see section TODO on noun incorporation).
 
 | | | | |
-|---|---|---|
-| ```ombuo``` | ```silsid``` | ```karsta``` | ```nyerar``` |
-| ```horse``` | ```run:AP``` | ```rope``` | ```enclose:EP``` |
-| ```royal/noble``` | ```snowy``` | ```feline``` |
+|---|---|---|---|
+| ```ombuo``` | ```silsi-d``` | ```karsta``` | ```nyera-r``` |
+| ```horse``` | ```run-AP``` | ```rope``` | ```enclose-EP``` |
+| ```running horse``` | | ```looped/wound rope``` | |
 
-Adjective of the other kind almost always come before the nouns they modify.
+Adjective of the ```-o``` kind almost always come before the nouns they modify.
 (Exceptions can be made on the basis of pragmatics, poetic effect, or similar.)
+
+| | | | |
+|---|---|---|---|
+| ```aklen-o``` | ```tuen``` | ```choika-o``` | ```lhiava``` |
+| ```dog-ADJ``` | ```person``` | ```flower-ADJ``` | ```cloth``` |
+| ```loyal person``` | | ```flower-patterned cloth``` | |
+
+### 2.2. Numbers
+
+The basic cardinal numbers are as follows.
+
+| | | | | |
+|---|---|---|---|---|
+| ```la``` | ```fi``` | ```askaa``` | ```kini``` | ```esa``` |
+| ```zero``` | ```one``` | ```two``` | ```three``` | ```four``` |
+| | | | | |
+| ```naka``` | ```kau``` | ```lisa``` | ```yate``` | ```ablu``` |
+| ```five``` | ```six``` | ```seven``` | ```eight``` | ```nine``` |
+
+For the ways of forming higher numbers, see section TODO on number formation.
+
+Cardinal numbers appear before the 
