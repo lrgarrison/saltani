@@ -65,20 +65,20 @@ subjects of intransitive verbs are absolutive.)
 Participle adjectives almost always come after the nouns they modify, unless they are
 made from verbs with incorporated nouns (see section TODO on noun incorporation).
 
-| | | | |
-|---|---|---|---|
-| ```ombuo``` | ```silsi-d``` | ```karsta``` | ```nyera-r``` |
-| ```horse``` | ```run-AP``` | ```rope``` | ```enclose-EP``` |
-| ```running horse``` | | ```looped/wound rope``` | |
+| | | | | |
+|---|---|---|---|---|
+| ```ombuo``` | ```silsi-d``` | | ```karsta``` | ```nyera-r``` |
+| ```horse``` | ```run-AP``` | | ```rope``` | ```enclose-EP``` |
+| ```running horse``` | | | ```looped/wound rope``` | |
 
 Adjective of the ```-o``` kind almost always come before the nouns they modify.
 (Exceptions can be made on the basis of pragmatics, poetic effect, or similar.)
 
-| | | | |
-|---|---|---|---|
-| ```aklen-o``` | ```tuen``` | ```choika-o``` | ```lhiava``` |
-| ```dog-ADJ``` | ```person``` | ```flower-ADJ``` | ```cloth``` |
-| ```loyal person``` | | ```flower-patterned cloth``` | |
+| | | | | |
+|---|---|---|---|---|
+| ```aklen-o``` | ```tuen``` | | ```choika-o``` | ```lhiava``` |
+| ```dog-ADJ``` | ```person``` | | ```flower-ADJ``` | ```cloth``` |
+| ```loyal person``` | | | ```flower-patterned cloth``` | |
 
 ### 2.2. Numbers
 
@@ -94,4 +94,29 @@ The basic cardinal numbers are as follows.
 
 For the ways of forming higher numbers, see section TODO on number formation.
 
-Cardinal numbers appear before the 
+Cardinal numbers always come before the noun they modify, and even before any
+adjectives that come before the noun.
+
+| | | | | | |
+|---|---|---|---|---|---|
+| ```kini``` | ```eaklai``` | | ```yate``` | ```ulsia-o``` | ```utma``` |
+| ```three``` | ```monkey``` | | ```eight``` | ```music-ADJ``` | ```servant``` |
+| ```three monkeys``` | | | ```eight musical servants``` | | |
+
+### 2.3. Adverbs
+
+Most adverb-like ideas are expressed with postpositional phrases. These usually come
+before the entire sentence (or clause) that they modify.
+
+| | | | |
+|---|---|---|---|
+| ```atsa's``` | ```ai,``` | ```batlaya``` | |
+| ```tree=FOC``` | ```be.at,``` | ```write:1SG``` | |
+| ```I write at the tree``` | | | |
+| | | | |
+| ```tikiet'is``` | ```bach,``` | ```onder'in``` | ```ngudrang``` |
+| ```stick=FOC``` | ```with/by,``` | ```child=AG``` | ```fight:3A``` |
+| ```the child fights with a stick``` | | |
+
+Some other adverb-like ideas are expressed with serial verbs - see section TODO on
+serial verbs.
