@@ -80,6 +80,8 @@ Adjective of the ```-o``` kind almost always come before the nouns they modify.
 | ```dog-ADJ``` | ```person``` | | ```flower-ADJ``` | ```cloth``` |
 | ```loyal person``` | | | ```flower-patterned cloth``` | |
 
+#### 2.1.3. 
+
 ### 2.2. Numbers
 
 The basic cardinal numbers are as follows.
