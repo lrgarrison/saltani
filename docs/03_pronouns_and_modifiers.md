@@ -45,7 +45,7 @@ Adjectives are generally formed in one of two ways. The first is with the suffix
 | ```royal/noble``` | ```snowy``` | ```feline``` |
 
 (Note that the last is pronounced with a glottal stop as indicated in section 01.3.1.
-on epenthesis - ```lEtso?o``` instead of ```lEtso:```.
+on epenthesis - ```lEtso?o``` instead of ```lEtso:```.)
 
 The second is with ```-(a)r``` and ```-(a)d```, which form the ergative and absolutive
 participles respectively and make nouns/adjectives from verbs. The optional ```a```
@@ -82,7 +82,7 @@ Adjective of the ```-o``` kind almost always come before the nouns they modify.
 
 #### 2.1.3. Adjectives with case markers
 
-Sections 02.1.3 and 02.2.3 on case marking stated that the agentive and focus cases
+Sections 02.1.3. and 02.2.3. on case marking stated that the agentive and focus cases
 are marked with suffixes - ```'(i)n``` and ```'(i)s``` respectively. It is more proper
 to say that these are [clitics](https://en.wikipedia.org/wiki/Clitic). That is, they
 attach to the end of the noun phrase instead of just the end of the noun. (Adjectives
@@ -91,8 +91,8 @@ TODO on possessives.)
 
 | | | |
 |---|---|---|
-| ```ninsolya``` | ```taela-d'is``` | ```elriasaya``` |
-| ```sunset``` | ```know-AP=FOC``` | ```wait.for:1SG``` |
+| ```ninsolya``` | ```taela-d'is``` | ```elriasayachai``` |
+| ```sunset``` | ```know-AP=FOC``` | ```wait.for:1SG>3C``` |
 | ```I wait for the sunset I know about``` |
 | ```utma``` | ```ayesa-r'in``` | ```koebting``` |
 | ```servant``` | ```after-EP=AG``` | ```hunt:3A``` |
