@@ -49,8 +49,9 @@ The subjects above are all unmarked because they are in the patientive case. Thi
 used for subjects that are not active (like the ones above.)
 
 Subjects can also be active, in which case (hah) they get marked with the agentive
-case. This means they are suffixed with ```'(a)v``` (but see section TODO on clitic
-behavior). The optional ```a``` is used if and only if the noun ends in a consonant.
+case. This means they are suffixed with ```'(a)v``` (but see section 03.2.1.3 on
+adjectives disrupting this pattern, as well as section TODO on possessives). The
+optional ```i``` is used if and only if the noun ends in a consonant.
 
 | | | | | |
 |---|---|---|---|---|
@@ -107,8 +108,9 @@ The objects above are all unmarked because they are in the patientive case. This
 used for objects that are physically affected (like the ones above.)
 
 Objects can also be unaffected, whereupon they get marked with the focus case. This
-means they are suffixed with ```'(i)s``` (but see section TODO on clitic behavior). The
-optional ```i``` is used if and only if the noun ends in a consonant.
+means they are suffixed with ```'(i)s``` (but see section 03.2.1.3 on adjectives
+disrupting this pattern, as well as section TODO on possessives). The optional ```i``` 
+is used if and only if the noun ends in a consonant.
 
 | | | | | | |
 |---|---|---|---|---|---|

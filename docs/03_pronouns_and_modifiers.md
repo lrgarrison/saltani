@@ -80,7 +80,23 @@ Adjective of the ```-o``` kind almost always come before the nouns they modify.
 | ```dog-ADJ``` | ```person``` | | ```flower-ADJ``` | ```cloth``` |
 | ```loyal person``` | | | ```flower-patterned cloth``` | |
 
-#### 2.1.3. 
+#### 2.1.3. Adjectives with case markers
+
+Sections 02.1.3 and 02.2.3 on case marking stated that the agentive and focus cases
+are marked with suffixes - ```'(i)n``` and ```'(i)s``` respectively. It is more proper
+to say that these are [clitics](https://en.wikipedia.org/wiki/Clitic). That is, they
+attach to the end of the noun phrase instead of just the end of the noun. (Adjectives
+are not the only thing that can detach the case marker from its noun - see also section
+TODO on possessives.)
+
+| | | |
+|---|---|---|
+| ```ninsolya``` | ```taela-d'is``` | ```elriasaya``` |
+| ```sunset``` | ```know-AP=FOC``` | ```wait.for:1SG``` |
+| ```I wait for the sunset I know about``` |
+| ```utma``` | ```ayesa-r'in``` | ```koebting``` |
+| ```servant``` | ```after-EP=AG``` | ```hunt:3A``` |
+| ```the later servant hunts``` | | |
 
 ### 2.2. Numbers
 
