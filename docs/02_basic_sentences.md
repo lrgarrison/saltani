@@ -55,7 +55,7 @@ optional ```i``` is used if and only if the noun ends in a consonant.
 
 | | | | | |
 |---|---|---|---|---|
-| ```utma'n``` | ```iotong``` | | ```aklen'an``` | ```wiyufang``` |
+| ```utma'n``` | ```iotong``` | | ```aklen'in``` | ```wiyufang``` |
 | ```servant=AG``` | ```dance:3A``` | | ```dog=AG``` | ```speak:3A``` |
 | ```the servant dances``` | | | ```the dog speaks``` | |
 
