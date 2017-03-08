@@ -62,8 +62,8 @@ subjects of intransitive verbs are absolutive.)
 
 #### 2.1.2 Adjective placement
 
-Participle adjectives almost always come after the nouns they modify, unless they are
-made from verbs with incorporated nouns (see section TODO on noun incorporation).
+Participle adjectives almost always come after the nouns they modify. However,
+see section TODO on noun incorporation for verbs that break this rule.
 
 | | | | | |
 |---|---|---|---|---|
