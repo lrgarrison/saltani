@@ -100,7 +100,7 @@ see section this.4.2. on syllable-timing for an explanation.
 
 | | | | |
 |---|---|---|---|
-|```virukh```|```ha```|```-->```|```viruha```|
+|```viruh```|```ha```|```-->```|```viruha```|
 |```fi.4ux```|```xa```|```-->```|```fi.4u.Ga```|
 | | | | |
 |```nisli```|```ibvami```|```-->```|```nisli-ibvami```|
