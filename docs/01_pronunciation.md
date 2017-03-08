@@ -79,6 +79,7 @@ beginning of the second word.
 For consonants, ```a``` is added as a new final syllable to the first word. Note the
 syllable boundaries (indicated by periods) moving in ```iang```, and see section this.4.2.
 on syllable-timing for an explanation.
+
 | | | | | |
 |---|---|---|---|---|
 |```iang```|```ngestu```|```-->```|```iang```|```ngestu```|
