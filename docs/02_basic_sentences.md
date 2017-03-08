@@ -96,11 +96,11 @@ stated explicitly) as seen below.
 
 If the object is a pronoun, it is usually omitted as seen below.
 
-| | | |
-|---|---|---|
-| ```ektotasel``` | ```aaihuti'n``` | ```ngudrangaki``` |
-| ```break:2>3I``` | ```squirrel``` | ```fight:3A>1PL``` |
-| ```you break it``` | ```the squirrel fights me``` | |
+| | | | |
+|---|---|---|---|
+| ```ektotasel``` | | ```aaihuti'n``` | ```ngudrangaki``` |
+| ```break:2>3I``` | | ```squirrel``` | ```fight:3A>1PL``` |
+| ```you break it``` | | ```the squirrel fights me``` | |
 
 ### 2.3. Object marking for patientive and focus case
 
