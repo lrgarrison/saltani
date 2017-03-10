@@ -7,6 +7,9 @@ Affix,bika-,definite plural,,
 Affix,i-,cause; cause to become,,
 Affix,nga-,not; opposite,,
 Affix,ngoi-,become,,
+Conjunction,alka,or,,before each for exclusive; all but first for inclusive
+Conjunction,aus,but; however; in contrast,,
+Conjunction,u,and,,
 Noun,aaihuti,mammal,animate,
 Noun,air,location of,inanimate,oblig. poss.
 Noun,aklen,dog,animate,
@@ -16,21 +19,22 @@ Noun,baika,example,concept,
 Noun,batan,question,concept,
 Noun,bitrova,table,inanimate,
 Noun,brakan,knife; sword,inanimate,
-Noun,bvikei,group; set,concept,
+Noun,bvikei,group; set,concept,oblig. poss.
 Noun,bwatar,underside; bottom; space underneath,inanimate,oblig. poss.
 Noun,choika,flower,inanimate,
 Noun,chu,parent,animate,oblig. poss.
 Noun,eaklai,monkey; ape,animate,
 Noun,echei,child (son/daughter),animate,oblig. poss.
+Noun,embra,acorn,inanimate,
 Noun,estraia,street; road,inanimate,
 Noun,hiwar,rain,animate,
 Noun,iambika,mountain; hill,inanimate,
 Noun,iang,stone; rock,inanimate,
 Noun,ilnora,mile,inanimate,
 Noun,iuira,fruit,inanimate,
-Noun,iyuruen,friend,animate,
-Noun,kabte,rope; thread; string,inanimate,
+Noun,iyuruen,friend,animate,oblig. poss.
 Noun,kabte,snow,inanimate,
+Noun,karsta,rope; thread; string,inanimate,
 Noun,kitra,circle; ball,inanimate,
 Noun,kleis,ruler,animate,opt. poss.
 Noun,koauru,electricity; electronics,animate,
@@ -60,6 +64,7 @@ Noun,otluo,ground; earth; land,animate,
 Noun,saswai,country,concept,opt. poss.
 Noun,satera,shoe,inanimate,
 Noun,selka,salt,inanimate,
+Noun,servid,sky,inanimate,
 Noun,sikrivi,seed,inanimate,siva + krivior
 Noun,tachi,picture,inanimate,
 Noun,tikiet,stick; pole; pillar,inanimate,
@@ -107,18 +112,20 @@ Pronoun,hoi,here,,
 Pronoun,ki,I; first-person singular,,kiveng; kis
 Pronoun,kilha,we; first-person plural,,kileng; kils
 Pronoun,ngla,he/she/it/they; third-person animate,,nglaiweng; nglais
-Pronoun,ti,wh-question,,"teng, tes"
+Pronoun,ti,wh-question,,teng; tes
 Pronoun,til,it; third-person inanimate,,tileng; tilis
 Pronoun,toro,distal,,
 Pronoun,tso,you; second-person,,tsubeng; tsus
 Pronoun,tura,self,,
 Verb,absuo,be equal to; have the identity of,V,
 Verb,abtiku,be good; useful; fitting; should; ought,II,
-Verb,achama,"divide, separate","III, V",spatial
+Verb,achama,divide; separate,III; V,spatial
 Verb,ai,be at (place),V,spatial
 Verb,aika,be other than,V,
+Verb,aioru,have energy; not be tired,II,
 Verb,aloso,sing,III,
 Verb,ayesa,be in front of; later than; after,V,spatial
+Verb,bach,with; by means of,V,
 Verb,baika,be an example of; exemplify,V,
 Verb,batan,ask about,V,
 Verb,batla,write,III; IV,
@@ -164,7 +171,8 @@ Verb,ndech,be near; approximate; around; close/next to,V,
 Verb,ndsata,be cool; cold,II,
 Verb,ngestu,be black,II,
 Verb,ngismis,be gray,II,
-Verb,ngitliu,fly,II,
+Verb,ngitliu,fly,III,
+Verb,ngudra,fight,III; IV,
 Verb,ngyau,meow,III,
 Verb,nota,see; watch,V,
 Verb,ntsiu,sleep,II,
@@ -174,28 +182,30 @@ Verb,obwana,be red/red-orange,II,
 Verb,ondere,be young,II,
 Verb,oruchi,walk,III,
 Verb,rabvii,work,III,
-Verb,rekyun,love romantically,V,
+Verb,rekun,love romantically,V,
 Verb,rias,stand; sit; remain,III,
 Verb,rien,subjunctive,I,
 Verb,rubra,be loud,II,
 Verb,salau,be beautiful; pretty,II,
 Verb,sengaa,be fast; quick,II,
+Verb,servi,be blue,II,
 Verb,set,go toward,V,spatial
 Verb,sih,end; finish; stop,II,
 Verb,silsi,run,III,
 Verb,siva,start; begin,II; III,
-Verb,solto,eat,III; IV,
+Verb,solto,eat; drink,III; IV,
 Verb,solya,discard; lose,IV; V,
 Verb,suomu,exist; live,II,
 Verb,suvara,be true; correct; accurate,II,
 Verb,tabas,be long; wide,II,spatial
 Verb,taela,know a concept; know about,V,
 Verb,tama,give (something),IV,
-Verb,teulaa,without; apart,V,
-Verb,teumea,with; together,V,
+Verb,teulaa,without; apart,V,('laa)
+Verb,teumea,with; together,V,('mea)
 Verb,tiarulh,be grateful to,V,
 Verb,tlabe,be new; again,II,
 Verb,tlamya,be behind; earlier than; before,V,spatial
+Verb,tosto,be open; empty,II,
 Verb,tsatya,be warm; hot,I; II,
 Verb,tseni,find,IV,
 Verb,tsin,do; make,IV,
@@ -216,8 +226,8 @@ Verb,weran,be beside,V,spatial
 Verb,wiri,for; in order to; purpose,V,
 Verb,wiyuf,speak; talk (to),III; V,
 Verb,yau,telic marker,I,
-Verb,yavrach,"turn (toward), corner",III,spatial
-Verb,yendo,prepare (for),"III, V",
+Verb,yavrach,turn (toward); corner,III,spatial
+Verb,yendo,prepare (for),III; V,
 Verb,yinya,swim,III,
 Verb,yira,atelic marker,I,
 Verb,yura,be happy,II,
