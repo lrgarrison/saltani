@@ -18,12 +18,11 @@ while True:
 	rightnumber = random.choice(range(4))
 	userchoice = input("which is \""+chosenwords[rightnumber][offernum]+"\"? ")
 	if userchoice == "asdf"[rightnumber]:
-		print("correct!\n")
+		print("correct!")
 		numcorrect += 1
 	elif userchoice == "q":
 		break
 	else:
-		print("no, it's","ASDF"[rightnumber]+":",chosenwords[rightnumber][printnum],"\n")
+		print("no, it's","ASDF"[rightnumber]+":",chosenwords[rightnumber][printnum])
 		numincorrect += 1
-print("\nyou got",numcorrect,"right and",numincorrect,"wrong")
-var = input("")
+	print(numcorrect,"right and",numincorrect,"wrong\n")
