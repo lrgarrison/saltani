@@ -13,11 +13,14 @@ Conjunction,u,and,,
 Noun,aaihuti,mammal,animate,
 Noun,air,location of,inanimate,oblig. poss.
 Noun,aklen,dog,animate,
+Noun,arevan,story (of/about something),concept,
 Noun,atsa,tree,animate,
 Noun,ayesar,front of; space in front,inanimate,oblig. poss.
 Noun,baika,example,concept,
 Noun,batan,question,concept,
 Noun,bitrova,table,inanimate,
+Noun,bonded,word,concept,bonde + -d
+Noun,bondika,language,concept,bonde + bvika
 Noun,brakan,knife; sword,inanimate,
 Noun,bvikei,group; set,concept,oblig. poss.
 Noun,bwatar,underside; bottom; space underneath,inanimate,oblig. poss.
@@ -27,10 +30,12 @@ Noun,eaklai,monkey; ape,animate,
 Noun,echei,child (son/daughter),animate,oblig. poss.
 Noun,embra,acorn,inanimate,
 Noun,estraia,street; road,inanimate,
+Noun,fenste,building,inanimate,
 Noun,hiwar,rain,animate,
 Noun,iambika,mountain; hill,inanimate,
 Noun,iang,stone; rock,inanimate,
 Noun,ilnora,mile,inanimate,
+Noun,isrenta,brick,inanimate,
 Noun,iuira,fruit,inanimate,
 Noun,iyuruen,friend,animate,oblig. poss.
 Noun,kabte,snow,inanimate,
@@ -66,7 +71,8 @@ Noun,satera,shoe,inanimate,
 Noun,selka,salt,inanimate,
 Noun,servid,sky,inanimate,
 Noun,sikrivi,seed,inanimate,siva + krivior
-Noun,tachi,picture,inanimate,
+Noun,tachi,picture (of something),inanimate,
+Noun,tepro,oil; tar,inanimate,
 Noun,tikiet,stick; pole; pillar,inanimate,
 Noun,tlamair,back of; space behind,inanimate,oblig. poss.
 Noun,tleu,manner; way,concept,
@@ -99,8 +105,10 @@ Number,naka,five,,
 Number,yate,eight,,
 Particle,akii,please,,
 Particle,besa,most,,
+Particle,ei,"hey; oh, general interjection",,
 Particle,le,of (the); part/section,,
 Particle,niv,intensifier; very,,
+Particle,rua,reciprocal; each other,,
 Particle,sua,true/false question; polar question,,
 Particle,tlavio,again,,
 Particle,tlu,relativizer,,
@@ -111,17 +119,18 @@ Pronoun,hav,proximal,,
 Pronoun,hoi,here,,
 Pronoun,ki,I; first-person singular,,kiveng; kis
 Pronoun,kilha,we; first-person plural,,kileng; kils
+Pronoun,kuir,any,,
 Pronoun,ngla,he/she/it/they; third-person animate,,nglaiweng; nglais
 Pronoun,ti,wh-question,,teng; tes
 Pronoun,til,it; third-person inanimate,,tileng; tilis
 Pronoun,toro,distal,,
 Pronoun,tso,you; second-person,,tsubeng; tsus
-Pronoun,tura,self,,
+Pronoun,tura,self; reflexive,,
 Verb,absuo,be equal to; have the identity of,V,
 Verb,abtiku,be good; useful; fitting; should; ought,II,
 Verb,achama,divide; separate,III; V,spatial
 Verb,ai,be at (place),V,spatial
-Verb,aika,be other than,V,
+Verb,aika,be other than; be different from,V,
 Verb,aioru,have energy; not be tired,II,
 Verb,aloso,sing,III,
 Verb,ayesa,be in front of; later than; after,V,spatial
@@ -138,12 +147,14 @@ Verb,chay,possible,I,
 Verb,chilo,be often; frequent; usual,II,
 Verb,chwal,experience; feel; seem (to),V,
 Verb,ebor,be more (than),V,
+Verb,echok,be used as; in the role of,V,
 Verb,eiku,gnomic marker,I,
 Verb,ektot,break,IV,
 Verb,ela,want an abstract; hope that,V,
 Verb,elrias,wait for,V,
 Verb,eochi,be strong; powerful,II,
 Verb,ha,be at the time of,V,
+Verb,hata,name/call someone/thing,V,<name> bach
 Verb,hiwar,rain,I,
 Verb,ibvami,want a concrete,V,
 Verb,ioto,dance,III,
@@ -179,6 +190,7 @@ Verb,ntsiu,sleep,II,
 Verb,nyatli,be above; upward of; over,V,spatial
 Verb,nyera,be around; enclose; contain,V,spatial
 Verb,obwana,be red/red-orange,II,
+Verb,okuto,because (of); reason,V,
 Verb,ondere,be young,II,
 Verb,oruchi,walk,III,
 Verb,rabvii,work,III,
@@ -199,7 +211,7 @@ Verb,suomu,exist; live,II,
 Verb,suvara,be true; correct; accurate,II,
 Verb,tabas,be long; wide,II,spatial
 Verb,taela,know a concept; know about,V,
-Verb,tama,give (something),IV,
+Verb,tama,give (to someone),IV,
 Verb,teulaa,without; apart,V,('laa)
 Verb,teumea,with; together,V,('mea)
 Verb,tiarulh,be grateful to,V,
@@ -225,6 +237,7 @@ Verb,waia,be sick,II,
 Verb,weran,be beside,V,spatial
 Verb,wiri,for; in order to; purpose,V,
 Verb,wiyuf,speak; talk (to),III; V,
+Verb,worel,suggest; offer,V,
 Verb,yau,telic marker,I,
 Verb,yavrach,turn (toward); corner,III,spatial
 Verb,yendo,prepare (for),III; V,
