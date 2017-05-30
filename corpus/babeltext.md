@@ -5,35 +5,35 @@
 | |
 |---|
 | ``` Arevan Babel-ai Venste Tsovied ``` |
-| ``` Story.of Babel-at Building Tall ``` |
+| ``` Story.of Babel-at Building Tall:ABSP ``` |
 | _The Story of the Tall Building at Babel_ |
 | The Story of the Tower of Babel |
 
 | |
 |---|
 | ```Otluo ai, awa le tuen'in rua-iriai wiyuvang, fi bondika bach.``` |
-| ```Earth on, all of person=AG REFL-like speak:3A, one language using.``` |
+| ```Earth on, all of person=AG RECP-like speak:3A, one language using.``` |
 | _On the earth, all of the people spoke like each other, using one language._ |
 | Now the whole earth had one language and the same words. |
 
 | |
 |---|
-| ``` U le tuen'in nindseni's bvaingal, ayesa, ``` |
-| ``` And of people=AG east=FOC come.from:3A:3I, after, ``` |
+| ``` U le tuen'in nindseni's bvaingal, hav ayesa, ``` |
+| ``` And of people=AG east=FOC come.from:3A:3I, PRX after, ``` |
 | _And some of the people came from the east, after that,_ |
 | And as people migrated from the east, |
 
 | |
 |---|
-| ``` Chinar ai, otluo lainya tseningal, u toro ai riasang. ``` |
-| ``` Shinar in, land flat found:3A:3I, and DIST at remain:3A. ``` |
+| ``` Chinar ai, otluo lainyad tseningal, u toro ai riasang. ``` |
+| ``` Shinar in, land flat:ABSP find:3A:3I, and DIST at remain:3A. ``` |
 | _in Shinar, they found a flat land, and there remained._ |
 | they found a plain in the land of Shinar and settled there. |
 
 | |
 |---|
-| ``` U rua's wiyufangan, "Ei, ivluar tlu, isre-isrenta tsinalyal, ``` |
-| ``` And REFL=FOC say:3A:3A, "Hey, needed REL, PLNDEF~brick make:1PL:3I, " ``` |
+| ``` U rua's wiyuvangan, "Ei, ivluar tlu, isre-isrenta tsinalyal, ``` |
+| ``` And RECP=FOC say:3A:3A, "Hey, needed REL, PLNDEF~brick make:1PL:3I, " ``` |
 | _And they said to each other, "Hey, we should make bricks,"_ |
 | And they said to one another, "Come, let us make bricks, |
 
@@ -53,7 +53,7 @@
 
 | |
 |---|
-| ``` Hav ayesa, wiyuvang, "Ei, ivlura tlu, lamana tsinalyal ``` |
+| ``` Hav ayesa, wiyuvang, "Ei, ivluar tlu, lamana tsinalyal ``` |
 | ``` PRX after, say:3A, "Hey, needed REL, city make:1PL:3I ``` |
 | _After this, they said, "Hey, we should make a city_ |
 | Then they said, "Come, let us build ourselves a city |
@@ -81,8 +81,8 @@
 
 | |
 |---|
-| ``` U Kleis'in ngoi-bwasang, u lamana u venste tsovied'is notangal, ``` |
-| ``` And Ruler=AG become-down:3A, and city and building tall:ABSP=FOC see:3A:3I, ``` |
+| ``` U Kleis'in ngoi-bwasang, u lamana's notangal u venste tsovied, ``` |
+| ``` And Ruler=AG become-down:3A, and city=FOC see:3A:3I and building tall:ABSP, ``` |
 | _And the Lord came down, and saw the city and the tall building,_ |
 | And the Lord came down to see the city and the tower, |
 
@@ -96,21 +96,21 @@
 | |
 |---|
 | ``` U Kleis wiyuvang, "Nota, fi bvikei's vendrangachai, ``` |
-| ``` And Ruler say:3A, "See, one group=FOC member.of:3A:3I, ``` |
+| ``` And Ruler say:3A, "See, one group=FOC member.of:3A:3C, ``` |
 | _And the Lord said, "See, they are one group,_ |
 | And the Lord said, "Behold, they are one people, |
 
 | |
 |---|
 | ``` u awa le nglaiweng rua-iriai wiyufang, ``` |
-| ``` and all of them=AG REFL-like say:3A, ``` |
+| ``` and all of them=AG RECP-like say:3A, ``` |
 | _and all of them talk like each other,_ |
 | and they have all one language, |
 
 | |
 |---|
-| ``` u hav bach, tsinangad siva. ``` |
-| ``` and PRX by, do:3A:ABSP begin. ``` |
+| ``` u hav bach, tsinangad sivare. ``` |
+| ``` and PRX by, do:3A:ABSP begin:3C. ``` |
 | _and with this begin the things they do._ |
 | and this is only the beginning of what they will do. |
 
@@ -130,8 +130,15 @@
 
 | |
 |---|
-| ``` U Kleis tsinang tlu, toro's bvaingal, awa le otluo set ``` |
-| ``` And Ruler make:3A REL, DIST=FOC go.from:3A:3I, all of earth to, ``` |
+| ``` u bonded'av rua's taelangachai la." ``` |
+| ``` and word=POSS RECP=FOC know:3A:3C not." ``` |
+| _and they won't know each other's words."_ ``` |
+| so that they may not understand one another's speech." |
+
+| |
+|---|
+| ``` U Kleis'in tsinang tlu, toro's bvaingal, awa le otluo set, ``` |
+| ``` And Ruler=AG make:3A REL, DIST=FOC go.from:3A:3I, all of earth to, ``` |
 | _And the Lord made them leave there and go to the whole earth,_ |
 | So the Lord dispersed them from there over the face of all the earth, |
 
@@ -151,14 +158,14 @@
 
 | |
 |---|
-| ``` toro ai, Kleis'in bonded'av awa le tuen iaikangachai. ``` |
-| ``` DIST at, Ruler=AG word=POSS all of person cause:different:3A:3C. ``` |
+| ``` toro ai, Kleis'in bonded'av awa le tuen i-aikangachai. ``` |
+| ``` DIST at, Ruler=AG word=POSS all of person cause-different:3A:3C. ``` |
 | _there, the Lord made the words of all the people different._ |
 | because there the Lord confused the language of all the earth. |
 
 | |
 |---|
-| ``` U Kleis tsinang tlu, toro's bvaingal, awa le otluo set. ``` |
-| ``` And Ruler make:3A REL, DIST=FOC go.from:3A:3I, all of earth to. ``` |
+| ``` U Kleis'in tsinang tlu, toro's bvaingal, awa le otluo set. ``` |
+| ``` And Ruler=AG make:3A REL, DIST=FOC go.from:3A:3I, all of earth to. ``` |
 | _And the Lord made them leave there and go to the whole earth._ |
 | And from there the Lord dispersed them over the face of all the earth. |
