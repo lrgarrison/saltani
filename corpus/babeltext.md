@@ -4,29 +4,29 @@
 
 | |
 |---|
-| ``` Arevan Babel-ai Fenste Tsovied ``` |
+| ``` Arevan Babel-ai Venste Tsovied ``` |
 | ``` Story.of Babel-at Building Tall ``` |
 | _The Story of the Tall Building at Babel_ |
 | The Story of the Tower of Babel |
 
 | |
 |---|
-| ```Otluo ai, awa le tuen'in rua-iriai wiyufang, fi bondika bach.``` |
+| ```Otluo ai, awa le tuen'in rua-iriai wiyuvang, fi bondika bach.``` |
 | ```Earth on, all of person=AG REFL-like speak:3A, one language using.``` |
 | _On the earth, all of the people spoke like each other, using one language._ |
 | Now the whole earth had one language and the same words. |
 
 | |
 |---|
-| ``` U le tuen'in nindseni's bvaing, ayesa, ``` |
-| ``` And of people=AG east=FOC come.from:3A, after, ``` |
+| ``` U le tuen'in nindseni's bvaingal, ayesa, ``` |
+| ``` And of people=AG east=FOC come.from:3A:3I, after, ``` |
 | _And some of the people came from the east, after that,_ |
 | And as people migrated from the east, |
 
 | |
 |---|
-| ``` Chinar ai, otluo lainya tsening, u toro ai riasang. ``` |
-| ``` Shinar in, land flat found:3A, and DIST at remain:3A. ``` |
+| ``` Chinar ai, otluo lainya tseningal, u toro ai riasang. ``` |
+| ``` Shinar in, land flat found:3A:3I, and DIST at remain:3A. ``` |
 | _in Shinar, they found a flat land, and there remained._ |
 | they found a plain in the land of Shinar and settled there. |
 
@@ -46,21 +46,21 @@
 
 | |
 |---|
-| ``` Isrenta iang'is echokadil, u tepro isrenta-uyav'is. ``` |
+| ``` Isrenta iang'is echokadil, u tebro isrenta-uyav'is. ``` |
 | ``` Brick rock=FOC use.as:3I:3I, and tar brick-hold=FOC. ``` |
 | _And brick was used as rock, and tar as mortar._ |
 | And they had brick for stone, and bitumen for mortar. |
 
 | |
 |---|
-| ``` Hav ayesa, wiyufang, "Ei, ivlura tlu, lamana tsinalyal ``` |
+| ``` Hav ayesa, wiyuvang, "Ei, ivlura tlu, lamana tsinalyal ``` |
 | ``` PRX after, say:3A, "Hey, needed REL, city make:1PL:3I ``` |
 | _After this, they said, "Hey, we should make a city_ |
 | Then they said, "Come, let us build ourselves a city |
 
 | |
 |---|
-| ``` u fenste tsovied, tlu servid ai, nyatliar til, ``` |
+| ``` u venste tsovied, tlu servid ai, nyatliar til, ``` |
 | ``` and building tall:ABSP, REL sky in, top.of it, ``` |
 | _and a tall building, whose top is in the sky,_ |
 | and a tower with its top in the heavens, |
@@ -81,8 +81,8 @@
 
 | |
 |---|
-| ``` U Kleis bwasang set, u lamana u fenste tsovied'is notang, ``` |
-| ``` And Ruler down:3A come, and city and building tall:ABSP=FOC see:3A, ``` |
+| ``` U Kleis'in ngoi-bwasang, u lamana u venste tsovied'is notangal, ``` |
+| ``` And Ruler=AG become-down:3A, and city and building tall:ABSP=FOC see:3A:3I, ``` |
 | _And the Lord came down, and saw the city and the tall building,_ |
 | And the Lord came down to see the city and the tower, |
 
@@ -95,7 +95,7 @@
 
 | |
 |---|
-| ``` U Kleis wiyufang, "Nota, fi bvikei's vendrangachai, ``` |
+| ``` U Kleis wiyuvang, "Nota, fi bvikei's vendrangachai, ``` |
 | ``` And Ruler say:3A, "See, one group=FOC member.of:3A:3I, ``` |
 | _And the Lord said, "See, they are one group,_ |
 | And the Lord said, "Behold, they are one people, |
@@ -123,8 +123,8 @@
 
 | |
 |---|
-| ``` Ei, ivluar tlu, bwasalya set u bonded'av nglais iaikalyachai, ``` |
-| ``` Hey, needed REL, down:1PL go and word=POSS 3A=FOC cause:different:1PL:3C, ``` |
+| ``` Ei, ivluar tlu, ngoi-bwasalya u bonded'av nglais i-aikalyachai, ``` |
+| ``` Hey, needed REL, become-down:1PL and word=POSS 3A=FOC cause-different:1PL:3C, ``` |
 | _Hey, we must go down and make their words different,_ |
 | Come, let us go down and there confuse their language, |
 
@@ -144,9 +144,9 @@
 
 | |
 |---|
-| ``` U hav okuto, Babel bach lamana's hatangal, ``` |
-| ``` And PRX because, Babel by city=FOC name:3A:3I, ``` |
-| _And because of this, the city was named Babel,_ |
+| ``` U hav okuto, Babel bach tuen lamana's hatangal, ``` |
+| ``` And PRX because, Babel by person city=FOC name:3A:3I, ``` |
+| _And because of this, people named the city Babel,_ |
 | Therefore its name was called Babel, |
 
 | |
